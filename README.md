@@ -1,5 +1,5 @@
 
-- 👀 I'll post my projects here soon, kinda lazy.
+- 👀 I'll post my projects here soon, still busy.
 - 🌱 I’m currently learning programming
 
 
