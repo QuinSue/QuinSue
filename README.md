@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @QuinSue
-- 👀 I’m interested in coding and programming
+
+- 👀 I'll post my projects here soon, kinda lazy.
 - 🌱 I’m currently learning programming
 
 
